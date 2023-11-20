@@ -10,7 +10,7 @@ Exemplo simples de um WebApi com autenticação via token
 
 ## Funcionalidades
 - Authenticação de usuários
-- Validação de usuários de por Roles.
+- Validação de usuários por Roles.
 
 ## Novas Tecnologias
 - Microsoft.AspNetCore.Authentication 
